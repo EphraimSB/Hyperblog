@@ -1,0 +1,16 @@
+[2022-03-27 18:20:02.385] [exthost] [info] Extension host with pid 696 started
+[2022-03-27 18:20:02.472] [exthost] [info] Lock '/home/exit/.vscode-server/data/User/workspaceStorage/c3c182366def41a30eaee4713bab0ebd/vscode.lock': Lock acquired.
+[2022-03-27 18:20:02.544] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-03-27 18:20:02.565] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-03-27 18:20:02.575] [exthost] [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense, startup: true, activationEvent: '*'
+[2022-03-27 18:20:02.640] [exthost] [info] ExtensionService#_doActivateExtension naumovs.color-highlight, startup: true, activationEvent: '*'
+[2022-03-27 18:20:03.040] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-03-27 18:20:03.159] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-03-27 18:20:03.345] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-27 18:20:03.414] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-27 18:20:03.432] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-27 18:20:04.051] [exthost] [info] Eager extensions activated
+[2022-03-27 18:20:04.489] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 9080
+[2022-03-27 18:20:09.414] [exthost] [info] extension host terminating: received terminate message from renderer
+[2022-03-27 18:20:09.415] [exthost] [info] Lock '/home/exit/.vscode-server/data/User/workspaceStorage/c3c182366def41a30eaee4713bab0ebd/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2022-03-27 18:20:09.430] [exthost] [info] Extension host with pid 696 exiting with code 0

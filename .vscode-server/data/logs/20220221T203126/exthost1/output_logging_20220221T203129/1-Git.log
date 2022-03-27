@@ -1,0 +1,14 @@
+[2022-02-22T01:31:30.378Z] Validating found git in: git
+[2022-02-22T01:31:30.591Z] Using git 2.25.1 from git
+[2022-02-22T01:31:32.533Z] > git rev-parse --git-dir [682ms]
+[2022-02-22T01:31:32.536Z] Open repository: /home/exit/PersonalProjects
+[2022-02-22T01:31:32.561Z] > git symbolic-ref --short HEAD [3ms]
+[2022-02-22T01:31:32.586Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master [14ms]
+[2022-02-22T01:31:32.617Z] > git remote --verbose [2ms]
+[2022-02-22T01:31:32.617Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [17ms]
+[2022-02-22T01:31:32.629Z] > git config --get commit.template [2ms]
+[2022-02-22T01:31:32.893Z] > git ls-files --stage -- /home/exit/PersonalProjects/index.html [1ms]
+[2022-02-22T01:31:32.897Z] > git cat-file -s 0997d0c8fc4cae891dd05c8eeb9d4f7c69199025 [1ms]
+[2022-02-22T01:31:56.268Z] > git ls-files --stage -- /home/exit/PersonalProjects/movies_afffe2e6-a55c-47f0-8895-9d37c9cd9eb8 (1).csv:Zone.Identifier [2ms]
+[2022-02-22T01:32:23.304Z] > git ls-files --stage -- /home/exit/PersonalProjects/index.html [0ms]
+[2022-02-22T01:32:23.309Z] > git cat-file -s 0997d0c8fc4cae891dd05c8eeb9d4f7c69199025 [0ms]

@@ -1,0 +1,15 @@
+[2022-02-21 19:06:43.177] [exthost] [info] Extension host with pid 913 started
+[2022-02-21 19:06:43.204] [exthost] [info] Lock '/home/exit/.vscode-server/data/User/workspaceStorage/c3c182366def41a30eaee4713bab0ebd/vscode.lock': Lock acquired.
+[2022-02-21 19:06:43.270] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-02-21 19:06:43.287] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-02-21 19:06:43.301] [exthost] [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense, startup: true, activationEvent: '*'
+[2022-02-21 19:06:43.339] [exthost] [info] ExtensionService#_doActivateExtension naumovs.color-highlight, startup: true, activationEvent: '*'
+[2022-02-21 19:06:43.395] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-02-21 19:06:43.565] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-02-21 19:06:43.820] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-02-21 19:06:43.916] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-02-21 19:06:43.939] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+[2022-02-21 19:06:44.486] [exthost] [info] Eager extensions activated
+[2022-02-21 20:23:23.932] [exthost] [info] extension host terminating: received terminate message from renderer
+[2022-02-21 20:23:23.935] [exthost] [info] Lock '/home/exit/.vscode-server/data/User/workspaceStorage/c3c182366def41a30eaee4713bab0ebd/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2022-02-21 20:23:24.002] [exthost] [info] Extension host with pid 913 exiting with code 0

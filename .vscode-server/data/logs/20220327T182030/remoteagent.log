@@ -1,0 +1,18 @@
+[2022-03-27 18:20:30.524] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2022-03-27 18:20:30.524] [remoteagent] [info] Extension host agent started.
+[2022-03-27 18:20:30.840] [remoteagent] [info] Deleted from disk esbenp.prettier-vscode /home/exit/.vscode-server/extensions/esbenp.prettier-vscode-9.3.0
+[2022-03-27 18:20:30.854] [remoteagent] [info] [127.0.0.1][1a27a102][ManagementConnection] New connection established.
+[2022-03-27 18:20:30.872] [remoteagent] [info] Deleted from disk ritwickdey.liveserver /home/exit/.vscode-server/extensions/ritwickdey.liveserver-5.7.4
+[2022-03-27 18:20:31.178] [remoteagent] [info] [127.0.0.1][077198d4][ExtensionHostConnection] New connection established.
+[2022-03-27 18:20:31.191] [remoteagent] [info] [127.0.0.1][077198d4][ExtensionHostConnection] <873> Launched Extension Host Process.
+[2022-03-27 18:29:14.499] [remoteagent] [info] [127.0.0.1][077198d4][ExtensionHostConnection] <873> [0mGET /favicon.ico [33m404[0m 2.470 ms - 150[0m
+

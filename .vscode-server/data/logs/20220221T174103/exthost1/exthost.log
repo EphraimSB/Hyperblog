@@ -1,0 +1,15 @@
+[2022-02-21 17:41:06.547] [exthost] [info] Extension host with pid 787 started
+[2022-02-21 17:41:06.590] [exthost] [info] Lock '/home/exit/.vscode-server/data/User/workspaceStorage/c3c182366def41a30eaee4713bab0ebd/vscode.lock': Lock acquired.
+[2022-02-21 17:41:06.712] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-02-21 17:41:06.748] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-02-21 17:41:06.774] [exthost] [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense, startup: true, activationEvent: '*'
+[2022-02-21 17:41:06.867] [exthost] [info] ExtensionService#_doActivateExtension naumovs.color-highlight, startup: true, activationEvent: '*'
+[2022-02-21 17:41:06.959] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-02-21 17:41:07.063] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-02-21 17:41:07.184] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-02-21 17:41:07.218] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-02-21 17:41:07.227] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+[2022-02-21 17:41:07.811] [exthost] [info] Eager extensions activated
+[2022-02-21 17:41:08.889] [exthost] [info] extension host terminating: received terminate message from renderer
+[2022-02-21 17:41:08.889] [exthost] [info] Lock '/home/exit/.vscode-server/data/User/workspaceStorage/c3c182366def41a30eaee4713bab0ebd/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2022-02-21 17:41:08.898] [exthost] [info] Extension host with pid 787 exiting with code 0

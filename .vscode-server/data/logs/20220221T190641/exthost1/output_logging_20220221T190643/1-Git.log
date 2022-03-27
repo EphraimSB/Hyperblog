@@ -1,0 +1,26 @@
+[2022-02-22T00:06:43.606Z] Validating found git in: git
+[2022-02-22T00:06:43.761Z] Using git 2.25.1 from git
+[2022-02-22T00:06:44.665Z] > git rev-parse --git-dir [1ms]
+[2022-02-22T00:06:44.669Z] Open repository: /home/exit/.oh-my-zsh
+[2022-02-22T00:06:44.733Z] > git symbolic-ref --short HEAD [8ms]
+[2022-02-22T00:06:44.738Z] > git rev-parse --git-dir [6ms]
+[2022-02-22T00:06:44.740Z] Open repository: /home/exit/PersonalProjects
+[2022-02-22T00:06:44.766Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master [29ms]
+[2022-02-22T00:06:44.782Z] > git remote --verbose [5ms]
+[2022-02-22T00:06:44.784Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [14ms]
+[2022-02-22T00:06:44.787Z] > git symbolic-ref --short HEAD [22ms]
+[2022-02-22T00:06:44.800Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master [6ms]
+[2022-02-22T00:06:44.809Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [5ms]
+[2022-02-22T00:06:44.809Z] > git config --get commit.template [9ms]
+[2022-02-22T00:06:44.812Z] > git remote --verbose [4ms]
+[2022-02-22T00:06:44.833Z] > git config --get commit.template [4ms]
+[2022-02-22T00:07:01.080Z] > git symbolic-ref --short HEAD [1ms]
+[2022-02-22T00:07:01.086Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master [0ms]
+[2022-02-22T00:07:01.096Z] > git remote --verbose [1ms]
+[2022-02-22T00:07:01.096Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [5ms]
+[2022-02-22T00:07:01.105Z] > git config --get commit.template [1ms]
+[2022-02-22T00:07:06.149Z] > git symbolic-ref --short HEAD [0ms]
+[2022-02-22T00:07:06.153Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master [1ms]
+[2022-02-22T00:07:06.160Z] > git remote --verbose [0ms]
+[2022-02-22T00:07:06.161Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [4ms]
+[2022-02-22T00:07:06.168Z] > git config --get commit.template [2ms]
